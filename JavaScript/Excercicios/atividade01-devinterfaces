@@ -1,0 +1,75 @@
+main-BFejJAES.js:sourcemap:5 Olá, mundo!
+console.log(10+5)
+VM1361:1 15
+undefined
+console.log("Meu nome é João Lucas")
+VM1484:1 Meu nome é João Lucas
+undefined
+console.log("Meu nome é João Lucas");
+VM1498:1 Meu nome é João Lucas
+undefined
+const nome = "João Lucas";
+undefined
+const idade = 20;
+undefined
+nome
+'João Lucas'
+idade
+20
+const idade = 19;
+undefined
+idade
+19
+let pontos = 10;
+undefined
+pontos
+10
+console.log(typeof"ADS")
+VM1875:1 string
+undefined
+console.log(typeof 45):
+VM1894:1 Uncaught SyntaxError: Unexpected token ':' (at VM1894:1:23)
+console.log(typeof 45);
+VM1902:1 number
+undefined
+console.log(typeof 45.47);
+VM1914:1 number
+undefined
+var1 = 15;
+15
+var2 = 20;
+20
+soma=var1+var2;
+35
+n1=4;
+4
+n2=20
+20
+soma=n1+n2;
+24
+subtracao=n1-n2;
+-16
+mult=n1*n2;
+80
+div=n1/n2;
+0.2
+nota1 = 7
+7
+nota2 = 8
+8
+nota2 = 9
+9
+media = nota1+nota2+nota3/3
+VM2551:1 Uncaught ReferenceError: nota3 is not defined
+    at <anonymous>:1:21
+(anonymous) @ VM2551:1
+nota2 = 8
+8
+nota 3 = 9
+VM2609:1 Uncaught SyntaxError: Unexpected number (at VM2609:1:6)
+nota3 = 9
+9
+media = nota1+nota2+nota3/3
+18
+media = (nota1+nota2+nota3)/3
+8
